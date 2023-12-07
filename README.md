@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Abhilash Abin Zachariah</h1>
+
+
+
 # 💫 About Me:
 🙋‍♂️ About Me<br>🔭 I’m currently straightening my learning curve.<br><br>🌱 I’m currently learning Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.<br><br>👨‍💻 All of my projects are available on my Github<br><br>📫 How to reach me abhilashabinz@gmail.com<br><br>⚡ Fun fact I play games and love to hang out during the holidays.
 
