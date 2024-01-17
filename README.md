@@ -2,7 +2,7 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me:                                                 [Portfolio](www.abhilashabinz.online)
 🙋‍♂️ About Me<br>🔭 I’m currently straightening my learning curve.<br><br>🌱 I’m currently learning Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.<br><br>👨‍💻 All of my projects are available on my Github<br><br>📫 How to reach me abhilashabinz@gmail.com<br><br>⚡ Fun fact I play games and love to hang out during the holidays.
 
 
@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhilash%20Abin%20Zachariah)
 
+[Portfolio](www.abhilashabinz.online)
 # 💻 Tech Stack:
 
 | Programming Languages       | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
